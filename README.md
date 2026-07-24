@@ -7,14 +7,16 @@ historical market data and a deep learning approach.
 
 ## Project Structure
 
-    nvidia-stock-price-prediction/
-    ├── data/
-    ├── notebooks/
-    ├── images/
-    ├── README.md
-    ├── requirements.txt
-    ├── .gitignore
-    └── LICENSE
+```text
+nvidia-stock-price-prediction/
+│
+├── P1_Prediksi_Close_Price_NVIDIA.ipynb    # Main notebook
+├── NVIDIA STOCKS HISTORICAL DATA.csv       # Historical NVIDIA stock dataset
+├── README.md                               # Project documentation
+├── requirements.txt                        # Python dependencies
+├── .gitignore                              # Git ignored files
+└── LICENSE                                 # MIT License
+```
 
 ## Dataset
 
